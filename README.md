@@ -2,7 +2,6 @@
 _Answered questions & Notes_
 
 Teacher: prof. Antonio Brogi  
-Autor: Aldo D'Aquino  
 Accademic Year: 2018/19
 
 ## Introduction
