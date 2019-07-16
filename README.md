@@ -2,9 +2,14 @@
 _Answered questions & Notes_
 
 Teacher: prof. Antonio Brogi  
-Accademic Year: 2018/19
+Accademic Year: 2018/19  
+[Syllabus](Syllabus.pdf)  
+[Oral questions](ASE-oral-questions.pdf) (list only)
 
-## Introduction
+**Check out also the summaries: [short](summaries/ASE_summaries_1819_original.pdf) and [extended](summaries/ASE_summaries_1819_extended.pdf).**
+
+
+## Introduction of the course
 
 ### NOTES
 
